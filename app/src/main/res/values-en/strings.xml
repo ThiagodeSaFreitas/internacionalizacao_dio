@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_saudacao">Welcome</string>
+    <string name="app_adeus">Goodbye</string>
+</resources>
